@@ -10,18 +10,21 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        dummy = ListNode(0)
-        dummy.next = head
-        fast = dummy
-        slow = dummy
-        
-        for _ in range(n + 1):
-            fast = fast.next
+        length = 0
+        curr = head
+        while curr:
+            length += 1
+            curr = curr.next
             
-        while fast is not None:
-            fast = fast.next
-            slow = slow.next
+        # Handle the edge case: removing the head node
+        if length == n:
+            return head.next
             
-        slow.next = slow.next.next
-        return dummy.next
-        
+        # Second pass: move to the node right before the target
+        curr = head
+        for _ in range(length - n - 1):
+            curr = curr.next
+            
+        # Skip the target node
+        curr.next = curr.next.next
+        return head
