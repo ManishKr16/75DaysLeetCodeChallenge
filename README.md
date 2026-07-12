@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [1331-rank-transform-of-an-array](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
+| [1331-rank-transform-of-an-array](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [1331-rank-transform-of-an-array](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
