@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [1331-rank-transform-of-an-array](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,8 +72,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
