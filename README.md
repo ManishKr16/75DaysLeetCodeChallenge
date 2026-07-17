@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 ## Queue
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
