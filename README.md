@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
