@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 ## Queue
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
