@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0152-maximum-product-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
