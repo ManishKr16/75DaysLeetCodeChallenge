@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
