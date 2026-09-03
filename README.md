@@ -139,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0182-duplicate-emails) |
 | [1683-invalid-tweets](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
