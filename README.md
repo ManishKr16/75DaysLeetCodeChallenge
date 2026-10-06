@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
