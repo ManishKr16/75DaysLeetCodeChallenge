@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/ManishKr16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
